@@ -6,7 +6,7 @@ Hi there, helping out intern Dan, I included some extra things to fix his killer
 
 If you want to see how this works on your local machine, just go ahead and fork this project (the fork button should be at the top of this page) so it is forked into your GitHub profile.
 
-Afterwards, you can click the clone button to get a link to input into your console, such as "git clone random-link" to clone in (be sure to be in the correct directory when cloning it!)
+Afterwards, you can click the clone button to get a link to input into your console, such as "git clone random-link" to clone its (be sure to be in the correct directory when cloning it!)
 
 Lastly, run npm install in your console (while inside of the folder) to install some necessary packages. Then finally, go ahead and start up your server by running "node index.js" so it starts up on your local machine. 
 
