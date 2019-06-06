@@ -1,32 +1,22 @@
-# Assignment
-
-## Objectives
-
-By the end of this project you will:
-
-- clone a Github project.
-- install a npm package.
-- debug a piece of code.
+# Random Movie Quote Generator
 
 ## Introduction
 
-Our intern Dan is working on this killer Movie Quotes App that returns a random movie quote. Right now all it does is render a blank screen in the web browser. Fork the repository found here and help Dan fix it.  
+Hi there, helping out intern Dan, I included some extra things to fix his killer Movie Quotes App that returns a random movie quote.
 
-## Specifications
+If you want to see how this works on your local machine, just go ahead and fork this project (the fork button should be at the top of this page) so it is forked into your GitHub profile.
 
-The finished project:
+Afterwards, you can click the clone button to get a link to input into your console, such as "git clone random-link" to clone in (be sure to be in the correct directory when cloning it!)
 
-- loads a new fact when you refresh the page.
-- runs with no errors.
-- has the readme updated with how to run this web server.
+Lastly, run npm install in your console (while inside of the folder) to install some necessary packages. Then finally, go ahead and start up your server by running "node index.js" so it starts up on your local machine. 
 
-![working app](app.gif)
+Go to localhost:3000 and refresh your heart away!
 
-## Submission Requirements
-
-Please include the url to your forked repository with the fixed webserver in your application to Inclusion's program.
+![App](app.gif)
 
 ## References
 
-- [Random Movie Quotes NPM Docummentation](https://www.npmjs.com/package/random-movie-quotes)
+These are some references used to help fix this project!
+
+- [Random Movie Quotes NPM Documentation](https://www.npmjs.com/package/random-movie-quotes)
 - [How to contribute to a github project](https://akrabat.com/the-beginners-guide-to-contributing-to-a-github-project/)
